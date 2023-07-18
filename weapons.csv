@@ -1,0 +1,222 @@
+name,type,power,power_percent_bonus,attraction_percent_bonus,luck,cheese_effect,obtain_method,title_req,gold_cost
+2010 Blastoff Trap,Tactical,2600,15,0,25,Very Stale,LE,Journeyman/Journeywoman,512800
+2012 Big Boom Trap,Tactical,2500,15,20,25,Extremely Stale,LE,Journeyman/Journeywoman,600000
+500 Pound Spiked Crusher,Physical,250,10,0,1,No Effect,Purchase,Novice,3000
+Admiral's Galleon Trap,Shadow,2500,25,0,15,No Effect,LE,Lord/Lady,0
+Ambrosial Portal,Shadow,1025,0,5,0,Fresh,Purchase,Master,8000
+Ambush Trap,Tactical,3000,5,0,12,Fresh,Purchase,Grandmaster,63410
+Ancient Box Trap,Forgotten,4300,10,0,4,No Effect,LE,Hero,15817
+Ancient Gauntlet,Physical,1050,4,20,4,Extremely Fresh,LE,Novice,0
+Ancient Spear Gun,Hydro,3600,5,10,12,Fresh,Purchase,Legendary,160000
+Anniversary Ambush,Tactical,3000,5,0,25,No Effect,LE,Grandmaster,6341
+Anniversary Ancient Box Trap,Forgotten,4300,10,0,10,No Effect,Purchase,Hero,158175
+Anniversary Arcane Capturing Rod Of Never Yielding Mystery,Arcane,3800,12,0,25,Insanely Stale,LE,Legendary,94905
+Anniversary DeathBot,Physical,3000,15,10,25,Stale,LE,Journeyman/Journeywoman,25640
+Anniversary Reaper's Perch,Shadow,3300,10,5,25,Stale,LE,Lord/Lady,276775
+Arcane Blast Trap,Arcane,3400,8,0,20,Insanely Fresh,LE,Grandmaster,1470000
+Arcane Capturing Rod Of Never Yielding Mystery,Arcane,3800,12,0,18,Insanely Stale,Purchase,Legendary,632700
+Bandit Deflector,Law,2000,11,0,4,No Effect,Purchase,Lord/Lady,150000
+Biomolecular Re-atomizer Trap,Rift,1500,2,2,0,Very Fresh,LE,Count/Countess,5000000
+Birthday Candle Kaboom,Physical,2400,30,20,14,Very Stale,LE,Journeyman/Journeywoman,289000
+Birthday Party Piñata Bonanza,Physical,2500,35,0,10,Stale,LE,Journeyman/Journeywoman,305000
+Blackstone Pass Trap,Tactical,3000,15,0,12,Very Fresh,Purchase,Lord/Lady,650000
+Blazing Ember Spear Trap,Draconic,5500,15,10,12,Extremely Stale,Purchase,Count/Countess,1000000
+Boiling Cauldron Trap,Arcane,4500,15,0,20,No Effect,Purchase,Recruit,2260600
+Bottomless Grave,Shadow,1500,0,0,5,No Effect,Purchase,Master,65400
+Brain Extractor,Shadow,2000,5,5,6,Fresh,LE,Master,237000
+Bubbles: The Party Crasher Trap,Hydro,5800,18,8,8,Very Stale,LE,Hero,0
+Cackle Lantern Trap,Shadow,2200,5,10,12,Extremely Stale,LE,Hero,2628340
+Candy Crusher Trap,Shadow,2000,3,15,15,No Effect,LE,Lord/Lady,0
+Carousel Charger Trap,Physical,5000,15,10,20,Stale,LE,Grandmaster,175000
+Celestial Dissonance Trap,Rift,3500,12,10,10,Fresh,Purchase,Archduke/Archduchess,13600000
+Cemetery Gate Grappler,Draconic,5100,10,10,10,No Effect,LE,Knight,0
+Charming PrinceBot,Physical,16500,28,15,36,Extremely Fresh,Purchase,Archduke/Archduchess,26000000
+Cheese Seeking Lighthouse Trap,Shadow,5250,10,15,21,No Effect,LE,Baron/Baroness,7999999
+Chesla's Revenge,Tactical,5000,2,10,16,Extremely Fresh,LE,Lord/Lady,0
+Christmas Cactus Trap,Law,1800,5,15,4,Fresh,LE,Legendary,150000
+Christmas Cracker Trap,Physical,3000,15,5,24,Very Fresh,LE,Initiate,0
+Christmas Crystalabra Trap,Rift,1200,0,5,4,Fresh,LE,Count/Countess,150000
+Chrome Arcane Capturing Rod Of Never Yielding Mystery,Arcane,5000,10,10,20,No Effect,LE,Legendary,1900000
+Chrome Celestial Dissonance Trap,Rift,4750,15,15,13,Extremely Fresh,Crafted,Archduke/Archduchess,51850000
+Chrome DeathBot,Physical,3500,20,15,30,Very Stale,LE,Journeyman/Journeywoman,512800
+Chrome DrillBot,Physical,4400,20,0,26,Insanely Stale,LE,Grandmaster,897400
+Chrome Grand Arcanum Trap,Arcane,5000,12,5,23,Fresh,LE,Baron/Baroness,6200000
+Chrome MonstroBot,Physical,8500,22,10,30,No Effect,Crafted,Baron/Baroness,15504080
+Chrome Nannybot,Shadow,1200,5,5,6,Fresh,LE,Grandmaster,508000
+Chrome Oasis Water Node Trap,Hydro,5500,15,5,24,Fresh,Crafted,Baron/Baroness,13250800
+Chrome Onyx Mallet,Physical,5500,30,0,20,Very Stale,LE,Hero,950000
+Chrome Phantasmic Oasis Trap,Hydro,6200,20,15,28,Very Fresh,Crafted,Baron/Baroness,17050800
+Chrome RhinoBot,Physical,6600,10,0,27,Ultimately Stale,LE,Legendary,3200000
+Chrome School of Sharks Trap,Hydro,12500,25,20,32,Extremely Fresh,Crafted,Count/Countess,43000000
+Chrome Sphynx Wrath,Tactical,6500,15,10,28,Very Fresh,Crafted,Baron/Baroness,13628000
+Chrome Storm Wrought Ballista Trap,Draconic,6200,18,15,20,Stale,Crafted,Grand Duke/Grand Duchess,13700000
+Chrome Tacky Glue Trap,Physical,70,0,30,20,Stale,LE,Novice,158000
+Chrome Temporal Turbine,Shadow,6000,25,5,28,No Effect,Crafted,Duke/Duchess,50499999
+Chrome Thought Obliterator Trap,Forgotten,16025,25,20,21,Extremely Fresh,Crafted,Archduke/Archduchess,41999999
+Circlet of Pursuing Trap,Arcane,9000,25,15,35,Insanely Fresh,Purchase,Archduke/Archduchess,13000000
+Circlet of Seeking Trap,Arcane,7200,15,10,28,Very Fresh,Purchase,Archduke/Archduchess,10950000
+Cloaking Droid Trap,Tactical,5000,10,10,20,Very Fresh,LE,Grandmaster,750000
+Clockapult of Time,Shadow,2700,10,5,10,Extremely Fresh,Purchase,Legendary,1800000
+Clockapult of Winter Past,Shadow,2275,10,5,10,Extremely Fresh,Crafted,Legendary,1800000
+Clockwork Portal Trap,Shadow,3900,12,10,20,No Effect,Purchase,Baron/Baroness,4000000
+Creepy Coffin Trap,Shadow,1800,5,5,7,Extremely Stale,Purchase,Master,0
+Crystal Crucible Trap,Forgotten,7800,10,2,8,Very Fresh,Purchase,Duke/Duchess,6640000
+Crystal Mineral Crusher Trap,Forgotten,8000,10,5,5,Fresh,LE,Baron/Baroness,0
+Crystal Tower,Rift,900,0,0,0,No Effect,Purchase,Count/Countess,4900000
+Dark Magic Mirrors Trap,Shadow,8000,30,10,35,Very Stale,Purchase,Archduke/Archduchess,59000000
+Darkest Chocolate Bunny Trap,Rift,1400,10,5,2,Very Stale,LE,Count/Countess,0
+Digby DrillBot,Physical,3600,18,0,5,No Effect,Purchase,Master,256000
+Dimensional Chest Trap,Tactical,5200,8,10,21,Extremely Fresh,Purchase,Baron/Baroness,1200000
+Double Diamond Adventure,Hydro,3500,0,5,18,Insanely Fresh,LE,Knight,1090000
+Dragon Lance,Draconic,4950,30,5,12,Extremely Stale,LE,Knight,8900000
+Dragon Slayer Cannon,Draconic,10000,35,10,25,No Effect,Crafted,Grand Duke/Grand Duchess,31700000
+Dragonvine Ballista Trap,Draconic,5750,15,5,14,Stale,Purchase,Grand Duke/Grand Duchess,1700000
+Dreaded Totem Trap,Shadow,3000,15,10,10,Very Stale,LE,Hero,2400000
+Droid Archmagus Trap,Arcane,5000,15,10,20,Stale,Purchase,Baron/Baroness,4700000
+Ember Prison Core Trap,Law,4500,25,10,16,Stale,Purchase,Count/Countess,1500000
+Endless Labyrinth Trap,Forgotten,10000,15,5,9,Very Stale,Purchase,Duke/Duchess,6980000
+Engine Doubler,Law,2000,12,0,4,No Effect,Purchase,Lord/Lady,150000
+Enraged RhinoBot,Physical,6000,10,0,20,Insanely Stale,Purchase,Legendary,360000
+Event Horizon Trap,Arcane,6000,12,10,25,No Effect,Purchase,Duke/Duchess,7300000
+Explosive Toboggan Ride,Hydro,2700,14,3,16,Extremely Fresh,LE,Master,10000
+Father Winter's Timepiece Trap,Forgotten,5000,15,10,8,Fresh,LE,Legendary,25000
+Festive Forgotten Fir Trap,Forgotten,7000,20,5,10,Fresh,LE,Lord/Lady,0
+Festive Gauntlet Crusher,Physical,1200,5,25,5,Extremely Fresh,LE,Novice,0
+Fluffy DeathBot,Physical,3000,15,10,4,Stale,Purchase,Journeyman/Journeywoman,0
+Focused Crystal Laser,Rift,1750,0,0,0,No Effect,Purchase,Duke/Duchess,1500000
+Forgotten Pressure Plate Trap,Forgotten,3500,10,10,2,Fresh,Purchase,Legendary,400000
+Giant Speaker,Tactical,2850,5,5,22,No Effect,LE,Journeyman/Journeywoman,612800
+Gingerbread House Surprise,Tactical,2200,10,10,8,Uber Fresh,Purchase,Journeyman/Journeywoman,0
+Glacier Gatler,Hydro,4800,10,10,20,Very Fresh,LE,Lord/Lady,909000
+Goldfrost Crossbow Trap,Shadow,5000,18,0,20,Very Fresh,LE,Baron/Baroness,5510000
+Golem Guardian Arcane Trap,Arcane,6000,15,20,28,Fresh,LE,Journeyman/Journeywoman,25000
+Golem Guardian Forgotten Trap,Forgotten,7000,15,20,15,Fresh,LE,Journeyman/Journeywoman,25000
+Golem Guardian Hydro Trap,Hydro,10000,15,20,28,Fresh,LE,Journeyman/Journeywoman,0
+Golem Guardian Physical Trap,Physical,7000,15,20,32,Fresh,LE,Journeyman/Journeywoman,25000
+Golem Guardian Tactical Trap,Tactical,5000,15,20,30,Fresh,LE,Journeyman/Journeywoman,25000
+Gorgon Trap,Shadow,2000,5,5,7,Very Stale,Purchase,Legendary,700000
+Gouging Geyserite Trap,Tactical,9000,20,10,23,Fresh,Purchase,Count/Countess,13000000
+Grand Arcanum Trap,Arcane,4800,12,5,22,No Effect,Purchase,Baron/Baroness,4900000
+Grungy Deathbot,Physical,3000,15,10,4,Stale,Purchase,Journeyman/Journeywoman,0
+Harpoon Gun,Hydro,3200,12,0,0,Stale,Purchase,Legendary,450000
+Harrowing Holiday Harpoon Harp,Draconic,5000,12,5,13,Very Fresh,LE,Lord/Lady,150000
+Haunted Shipwreck Trap,Hydro,5000,20,10,10,Very Stale,LE,Hero,0
+Heat Bath,Hydro,4500,15,0,15,Stale,Purchase,Knight,0
+High Tension Spring,Physical,75,5,20,2,No Effect,Purchase,Novice,600
+HitGrab Horsey,Physical,550,2,0,20,Very Fresh,LE,Novice,15850
+HitGrab Rainbow Rockin' Horse,Physical,1250,2,10,25,Uber Fresh,LE,Grandmaster,75900
+HitGrab Rockin' Horse,Physical,1250,2,10,25,No Effect,LE,Apprentice,158500
+Holiday Hydro Hailstone Trap,Hydro,3500,20,5,20,Fresh,LE,Knight,0
+Horrific Venus Mouse Trap,Tactical,3400,12,1,16,No Effect,Purchase,Legendary,849650
+Ice Blaster,Hydro,3800,5,5,12,Fresh,LE,Grandmaster,189000
+Ice Maiden,Draconic,5200,12,0,8,No Effect,Purchase,Knight,0
+Icy RhinoBot,Physical,4950,0,0,8,Very Stale,Crafted,Legendary,1344340
+Infinite Dark Magic Mirrors Trap,Shadow,10000,32,15,40,Extremely Stale,Purchase,Viceroy,109000000
+Infinite Labyrinth Trap,Forgotten,11011,15,5,11,Stale,Purchase,Duke/Duchess,1800000
+Infinite Winter Horizon Trap,Arcane,6000,10,15,26,Extremely Fresh,LE,Duke/Duchess,10700000
+Interdimensional Crossbow,Shadow,4500,15,15,18,Fresh,Purchase,Baron/Baroness,5360000
+Isle Idol Trap,Physical,5050,0,0,7,Stale,LE,Legendary,1250000
+Isle Idol Hydroplane Skin,Hydro,3500,5,15,10,Stale,LE,Legendary,1250000
+Isle Idol Stakeshooter Skin,Tactical,3750,12,5,14,Stale,LE,Legendary,1250000
+Jacked Rabbot™ Trap,Physical,6600,15,20,25,Fresh,Purchase,Lord/Lady,0
+Judge Droid Trap,Law,2400,10,0,6,Very Fresh,Purchase,Count/Countess,470000
+Kraken Chaos,Hydro,3400,0,0,18,Very Stale,LE,Grandmaster,860000
+Law Laser Trap,Law,1750,20,10,3,Fresh,LE,Lord/Lady,750000
+Legendary KingBot,Physical,20000,35,20,42,Insanely Fresh,Purchase,Viceroy,46000000
+Maniacal Brain Extractor,Shadow,2600,10,0,13,Very Fresh,LE,Lord/Lady,692800
+Meteor Prison Core Trap,Law,3000,20,10,8,No Effect,Purchase,Baron/Baroness,1200000
+Moonbeam Barrier Trap,Shadow,4000,10,10,15,Stale,LE,Baron/Baroness,2500000
+Mouse DeathBot,Physical,3000,15,10,4,Stale,Purchase,Journeyman/Journeywoman,150000
+Mouse Hot Tub,Physical,70,3,35,2,No Effect,Purchase,Novice,600
+Mouse Mary O'Nette,Physical,250,0,6,5,Fresh,Purchase,Recruit,6250
+Mouse Rocketine,Physical,700,6,0,3,Extremely Stale,Purchase,Apprentice,22400
+Mouse Trebuchet,Physical,600,2,4,1,Very Fresh,Purchase,Apprentice,11000
+Multi-Crystal Laser,Rift,1000,0,0,3,No Effect,Purchase,Duke/Duchess,1500000
+Mutated Venus Mouse Trap,Tactical,2300,15,0,8,Insanely Stale,Purchase,Master,299650
+Mysteriously unYielding Null-Onyx Rampart of Cascading Amperes,Rift,1835,2,5,5,No Effect,Purchase,Grand Duke/Grand Duchess,16400000
+Mystic Pawn Pincher,Tactical,60,5,20,0,Fresh,Purchase,Lord/Lady,300000
+Nannybot,Parental,525,5,0,5,No Effect,LE,Novice,0
+Net Cannon,Hydro,3000,0,3,5,Stale,Purchase,Legendary,450000
+New Horizon Trap,Arcane,6217,15,10,26,Fresh,LE,Duke/Duchess,10700000
+New Year's Fireworks Trap,Physical,6000,12,10,23,Stale,LE,Knight,600000
+Ninja Ambush Trap,Tactical,3000,5,0,12,Fresh,Purchase,Grandmaster,0
+Nutcracker Nuisance Trap,Arcane,3000,18,15,16,Insanely Fresh,LE,Knight,900
+NVMRC Forcefield Trap,Physical,2350,12,10,12,No Effect,Purchase,Journeyman/Journeywoman,180000
+Oasis Water Node Trap,Hydro,5200,12,10,20,No Effect,Purchase,Baron/Baroness,2000800
+Obelisk of Incineration Trap,Arcane,2900,10,0,6,Insanely Stale,Purchase,Legendary,45529
+Obelisk of Slumber Trap,Arcane,2100,0,10,0,Extremely Fresh,Purchase,Legendary,316350
+Obvious Ambush Trap,Tactical,3000,15,0,12,Very Stale,Purchase,Lord/Lady,650000
+Onyx Mallet,Physical,4200,12,0,12,Stale,Purchase,Grandmaster,600000
+Paradise Falls Trap,Hydro,4000,25,25,22,Very Stale,LE,Legendary,2400000
+PartyBot,Physical,3500,15,15,25,Stale,LE,Journeyman/Journeywoman,271400
+Phantasmic Oasis Trap,Hydro,5850,15,20,26,No Effect,Purchase,Baron/Baroness,3000000
+Pneumatic Tube Trap,Physical,2300,20,5,18,No Effect,LE,Journeyman/Journeywoman,370000
+Pumpkin Pummeler,Shadow,1150,5,10,5,Fresh,LE,Master,168000
+Queso Factory Trap,Law,2000,12,30,5,Extremely Fresh,Purchase,Lord/Lady,117000
+Queso Fount Trap,Hydro,11000,30,10,25,Stale,Purchase,Count/Countess,12000000
+Reaper's Perch,Shadow,3300,10,5,16,Stale,Purchase,Lord/Lady,2767750
+Rewers Riposte,Tactical,2900,15,5,25,Fresh,LE,Journeyman/Journeywoman,605000
+RhinoBot,Physical,5000,0,0,8,Very Stale,Purchase,Legendary,940000
+Rift Glacier Gatler,Rift,1250,10,10,3,Very Fresh,LE,Count/Countess,25000
+Rocket Propelled Gavel Trap,Physical,6200,15,0,22,Stale,LE,Knight,2500000
+Rune Shark Trap,Hydro,6700,15,20,27,Very Fresh,Purchase,Count/Countess,18000000
+S.A.M. F.E.D. DN-5,Tactical,2750,5,20,15,Fresh,LE,Grandmaster,375000
+S.L.A.C.,Law,650,5,10,0,No Effect,Purchase,Lord/Lady,150000
+S.L.A.C. II,Law,1750,6,15,2,No Effect,Purchase,Lord/Lady,275000
+S.S. Scoundrel Sleigher Trap,Hydro,4500,12,10,18,Fresh,LE,Initiate,64000
+S.T.I.N.G. Trap,Law,3500,15,10,10,Stale,Purchase,Archduke/Archduchess,1500000
+S.T.I.N.G.E.R. Trap,Law,6075,25,15,20,Extremely Stale,Purchase,Archduke/Archduchess,3000000
+S.U.P.E.R. Scum Scrubber,Hydro,4000,15,15,15,Stale,Purchase,Hero,0
+Sandcastle Shard Trap,Shadow,3000,5,15,12,Fresh,LE,Grandmaster,0
+Sandstorm MonstroBot,Physical,8000,20,5,27,No Effect,Purchase,Baron/Baroness,999000
+Sandtail Sentinel,Physical,6800,17,10,25,No Effect,Purchase,Baron/Baroness,3000000
+Scarlet Ember Root Trap,Forgotten,6000,3,10,7,Very Stale,Purchase,Count/Countess,900000
+School of Sharks Trap,Hydro,9850,15,20,30,Extremely Fresh,Purchase,Count/Countess,11000000
+Scum Scrubber,Hydro,3000,15,0,13,Stale,Purchase,Hero,0
+Shrink Ray Trap,Physical,1750,5,2,8,Fresh,Purchase,Novice,0
+Sinister Portal,Shadow,1025,5,0,0,Stale,Purchase,Master,9800
+Sleeping Stone Trap,Tactical,7475,15,10,32,Very Stale,Purchase,Archduke/Archduchess,22250000
+Slumbering Boulder Trap,Tactical,12825,25,15,40,Insanely Stale,Purchase,Archduke/Archduchess,45250000
+Smoldering Stone Sentinel Trap,Physical,12000,25,10,25,Very Stale,Purchase,Count/Countess,15000000
+Snow Barrage,Tactical,1450,20,20,28,Very Fresh,LE,Initiate,140600
+Snowglobe Trap,Physical,2350,12,10,16,No Effect,LE,Journeyman/Journeywoman,341000
+Soul Catcher,Shadow,1500,5,5,5,No Effect,LE,Master,190000
+Soul Harvester,Shadow,2200,5,5,12,No Effect,LE,Lord/Lady,1844400
+Sphynx Wrath,Tactical,6100,10,10,25,Very Fresh,Purchase,Baron/Baroness,1628000
+Sprinkly Cupcake Surprise Trap,Arcane,3500,9,9,9,Very Fresh,LE,Grandmaster,0
+Stale Cupcake Golem Trap,Forgotten,6700,7,0,0,No Effect,LE,Lord/Lady,0
+Steam Laser Mk. I,Hydro,4200,8,0,14,No Effect,Purchase,Lord/Lady,345000
+Steam Laser Mk. II,Hydro,4800,12,10,18,Fresh,Purchase,Lord/Lady,345000
+Steam Laser Mk. II (Broken!),Hydro,0,0,0,0,Uber Fresh,Purchase,Lord/Lady,345000
+Steam Laser Mk. III,Hydro,4800,12,10,18,Fresh,Purchase,Lord/Lady,345000
+Storm Wrought Ballista Trap,Draconic,6000,15,10,15,Stale,Purchase,Grand Duke/Grand Duchess,0
+Supply Grabber,Law,2000,10,0,4,No Effect,Purchase,Lord/Lady,150000
+Surprise Party Trap,Law,2000,11,11,4,Extremely Fresh,LE,Legendary,1000
+Swiss Army Mouse Trap,Physical,1200,2,2,10,No Effect,Purchase,Initiate,55000
+Tacky Glue Trap,Physical,70,0,40,2,Stale,Purchase,Novice,550
+Tarannosaurus Rex Trap,Forgotten,5200,12,0,8,Fresh,LE,Lord/Lady,4000000
+Technic Pawn Pincher,Tactical,60,5,20,0,Stale,Purchase,Lord/Lady,300000
+Temporal Turbine,Shadow,5000,20,0,25,Stale,Purchase,Duke/Duchess,10500000
+Terrifying Spider Trap,Shadow,2400,5,5,13,No Effect,LE,Lord/Lady,0
+The Forgotten Art of Dance,Forgotten,5000,12,6,6,No Effect,Purchase,Knight,178000
+The Haunted Manor Trap,Shadow,3500,10,10,15,Stale,LE,Lord/Lady,0
+The Holiday Express Trap,Law,2100,10,20,8,Uber Fresh,LE,Initiate,90000
+The Law Draw,Law,1100,5,20,5,Fresh,LE,Lord/Lady,600000
+Thorned Venus Mouse Trap,Tactical,3400,5,2,14,Very Fresh,Purchase,Legendary,550000
+Thought Manipulator Trap,Forgotten,12112,15,15,12,Fresh,Purchase,Archduke/Archduchess,10700000
+Thought Obliterator Trap,Forgotten,14000,25,15,18,Extremely Fresh,Purchase,Archduke/Archduchess,21000000
+Timesplit Dissonance Trap,Rift,3000,10,10,7,No Effect,Purchase,Grand Duke/Grand Duchess,36400000
+Tome of the Mind's Eye Trap,Forgotten,13000,20,15,16,Very Stale,Purchase,Archduke/Archduchess,15000000
+Tulip Turret,Draconic,6000,15,10,10,Extremely Stale,LE,Knight,0
+Ultra MegaMouser MechaBot Trap,Physical,2250,5,15,8,No Effect,LE,Novice,0
+Veiled Vine Trap,Tactical,3500,12,0,20,Very Stale,LE,Grandmaster,1150000
+Venus Mouse Trap,Tactical,1900,0,5,5,Extremely Fresh,Purchase,Master,220000
+Wacky Inflatable Party People Trap,Rift,1100,11,11,4,Fresh,LE,Count/Countess,10000
+Warden Slayer Trap,Physical,6000,15,15,17,No Effect,LE,Knight,0
+Warpath Thrasher,Physical,4500,10,5,6,Stale,LE,Knight,2150000
+Well of Wisdom Trap,Tactical,4000,3,25,22,Insanely Fresh,LE,Legendary,600000
+Wrapped Gift Trap,Physical,1100,5,10,5,No Effect,LE,Novice,150000
+Zugzwang's First Move,Tactical,4200,15,0,17,Very Fresh,Purchase,Lord/Lady,615000
+Zugzwang's Last Move,Tactical,2200,15,0,7,Fresh,Purchase,Grandmaster,310000
+Zugzwang's Ultimate Move,Tactical,4500,20,10,20,Very Fresh,LE,Lord/Lady,1400000
+Zurreal's Folly,Tactical,2930,20,15,12,Ultimately Stale,Purchase,Lord/Lady,0
